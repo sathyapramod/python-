@@ -47,3 +47,7 @@ cars = ['bmw', 'audi', 'toyota', 'subaru']
 cars.reverse()
 #print(cars)
 print(len(cars))
+
+# Slicing a List
+players = ['charles', 'martina', 'michael', 'florence', 'eli'] 
+print(players[0:3])
